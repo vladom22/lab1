@@ -1,0 +1,23 @@
+body{
+    background-color:#7FFFD4 ;
+   }
+   
+   button{
+    width: 25px;
+   }
+   
+   h1{
+    color: #BA55D3;
+   }
+   
+   p{
+   font-size: 19pt;
+   }
+   
+   table{
+   border-collapse: collapse;
+   }
+   
+   td, th{
+   border:1px solid lime ;
+   }
